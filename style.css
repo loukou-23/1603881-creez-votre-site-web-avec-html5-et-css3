@@ -1,0 +1,18 @@
+.example-class {
+  color: rgb(21, 255, 0);
+  font-size: 16px ;}
+
+
+.rouge{
+    color: brown;
+    font-size: 15px;
+    background-color:white;
+}
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+
+}
+.mail{
+    color:blue
+}
